@@ -6,7 +6,7 @@ Code & results are given at [https://github.com/anoicml2023/tab_res](https://git
 
 ## Formal Verification
 
-Code & results are given at [https://github.com/anoicml2023/XXX](https://github.com/anoicml2023/XXX)
+Code & results are given at [https://github.com/anoicml2023/Formal_verif](https://github.com/anoicml2023/Formal_verif)
 
 ## Logic Gate Boolean Circuit
 
