@@ -1,4 +1,4 @@
-# TTNET submission ICML 2023
+# TTnet submission ICML 2023
 
 
 This repository is the implementation Reproducibility part for submitted paper.
