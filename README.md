@@ -35,4 +35,4 @@ Code & results are given at [https://github.com/anoicml2023/bool_gate_circuit](h
 
 ## Scalability
 
-Due to university policy, we are not able to publish the source code on the scalability part publicly at the moment. It is however available on demand: please contact the ICML 2023 chairs and we will share the code through them.
+Code & results are given at [https://github.com/anoicml2023/XXX](https://github.com/anoicml2023/XXX)
