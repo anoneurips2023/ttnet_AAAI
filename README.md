@@ -35,4 +35,4 @@ Code & results are given at [https://github.com/anoicml2023/bool_gate_circuit](h
 
 ## Scalability
 
-Code & results are given at [https://github.com/anoicml2023/XXX](https://github.com/anoicml2023/XXX)
+Code & results are given at [https://github.com/anoicml2023/scale_imagenet](https://github.com/anoicml2023/scale_imagenet)
