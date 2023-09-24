@@ -1,4 +1,4 @@
-# TTnet submission NeurIPS 2023
+# TTnet submission AAAI 2024
 
 
 This repository is the implementation Reproducibility part for submitted paper.
